@@ -19,8 +19,8 @@ export default function Hero() {
         <div className='info'>
           <h2>RETAILER</h2>
           <em>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam,
-            quaerat!
+          It is a long established fact that a reader will be 
+          distracted by the readable content of a page when looking at its layout.
           </em>
           <button>ORDER NOW</button>
         </div>
