@@ -11,8 +11,7 @@ export default function Portfolio() {
       <div className='content'>
         <h1>Buy Premium Pan Free Hand Toast!</h1>
         <h2>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi,
-          molestias!
+        There are many variations of passages of Lorem Ipsum available
         </h2>
         <button>Buy Now</button>
       </div>
