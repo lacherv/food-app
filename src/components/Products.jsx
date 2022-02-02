@@ -30,7 +30,7 @@ export default function Products() {
     },
   ];
   return (
-    <StyledProducts>
+    <StyledProducts id="products">
       <div className='title'>
         <h1>
           <span>Favourite</span> All the time!
