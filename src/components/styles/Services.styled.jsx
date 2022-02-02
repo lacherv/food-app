@@ -23,6 +23,9 @@ export const StyledServices = styled.section`
         line-height: 2rem;
         font-size: 1.1rem;
         letter-spacing: 0.1rem;
+        span {
+          color: #fc4958;
+        }
       }
       button {
         padding: 0.6rem 3rem;
